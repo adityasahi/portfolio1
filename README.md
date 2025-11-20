@@ -8,7 +8,7 @@ Welcome to the source code for my personal portfolio website! This responsive si
 
 ## 🔍 Live Preview
 
-👉 [Visit Portfolio Website](adityasahi.wasmer.app)  
+👉 [Visit Portfolio Website](adityasahi.netlify.app)  
 
 
 ---
@@ -54,3 +54,4 @@ portfolio/
 ├── README.md             # You’re here
 
 This portfolio uses the BootstrapMade Personal template. See LICENSE for more details.
+
